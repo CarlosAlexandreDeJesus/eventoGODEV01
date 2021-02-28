@@ -2,11 +2,10 @@
 ### Foi desenvolvido com a linguagem de programação java.
 
 ####Vamos as  observacoes
-
+##### Coloquei um plugin JDBC para MYSQL para uma possivel persistencia na base de dodos que esta na pasta lib.
 ##### É necessario ter o eclipse instalado assim como também o java  onde voce pode baixar nos sites oficias.
 ##### Para testar os metodos é necessario configurar o JAVA  BUILD PATH  em liberies seleciona o ClassPath e adiciona JUnit em ADD Libray.
-
-#### Documento do código fonte
+##### Documento do código fonte
 
 A classe SistemaEvento.java
 	Essa classe dar origem a todo o comportamento do sistema
